@@ -1,4 +1,4 @@
-# durendal
+# :space_invader: Durendal
 
 FIXME: description
 
