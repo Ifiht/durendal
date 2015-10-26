@@ -10,5 +10,5 @@ FIXME: explanation
 
 ## To Do
 
-[ ] Finish dirty-socks
-[ ] placeholder
+- [ ] Finish dirty-socks
+- [ ] placeholder
