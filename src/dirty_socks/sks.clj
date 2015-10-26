@@ -1,6 +1,7 @@
 (ns durendal.dirty-socks.sks
   "Wrapper for java.net that allows native clojure manipulation of sockets and their data as simple strings."
-  (:import (java.net Socket)))
+  (:import (java.net Socket)
+    (java.io BufferedWriter BufferedReader)))
 ;==========================~ Private Functions ~==========================;
 
 ;==========================~ Public Functions ~===========================;
