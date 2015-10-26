@@ -1,10 +1,6 @@
 # :space_invader: Durendal
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+A custom sockets library enabling automation of telnet commands on remote systems.
 
 ## Usage
 
@@ -12,25 +8,7 @@ FIXME: explanation
 
     $ java -jar durendal-0.1.0-standalone.jar [args]
 
-## Options
+## To Do
 
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2015 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+[ ] Finish dirty-socks
+[ ] placeholder
