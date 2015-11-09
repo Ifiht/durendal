@@ -20,8 +20,8 @@
   "Give a description"
   [^Socket socket]
   (let [i (.getInputStream socket)]
-    (.read i)
-  ))
+    (let [r (new BufferedReader i)]
+      (. r readline))))
 
 (defn tell-sock
   "Give a description"
